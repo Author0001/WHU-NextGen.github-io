@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **WHU-NextGen Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2025.
+        The **WHU-NextGen Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2025, leveraging world‑class faculty, cutting‑edge facilities, and strategic industry and academic partnerships to drive breakthroughs in machine learning, computer vision, natural language processing, robotics, and intelligent systems.
   
   - block: collection
     content:
