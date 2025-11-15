@@ -18,7 +18,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-  - name: College of Artificial Intelligence, WuHan University
+  - name: School of Artificial Intelligence, WuHan University
     url: 'https://sai.whu.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
@@ -75,7 +75,6 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Visitors
 ---
 
-长期从事自然语言处理的研究，在国际顶级会议NeurIPS/ACL/EMNLP/NAACL/KDD/SIGIR/WWW/ICDM/COLING和国际顶级期刊Nature Communications/npj Digital Medicine/TOIS/TKDE等发表论文60 余篇。截止2025年为止，相关github开源项目获得累计星标2000+, 多个开源的数据集成为领域内的评估基准并被用于组织国际权威的ACL-BioNLP 和IJCAI的评测任务，吸引了包括密歇根大学和佐治亚理工等国内外知名机构在内的两百多个队伍参加。相关的开源金融和医疗大语言模型下载量已超过12400次，数据下载量超过73800次。受邀担任ACL 2023、EMNLP 2023, ACL 2025, NeurIPS 2025, COLING 2025, EMNLP 2025, LREC 2026的领域主席，担任 FinNLP-FNP-LLMFinLegal @ COLING-2025 的大会联合主席，同时也是IJCAI-2024 和ACL 2023 评测任务的组织者。长期担任NeurIPS/ICLR/ICML/ACL/EMNLP/NAACL/KDD/ npj Digital Medicine等会议和期刊的审稿人，担任了英国罗素大学集团University Research Fellowships 2023的基金评审人。受邀担任欧洲生物信息研究所组织的专题研讨会的主讲嘉宾，美国国家卫生院 (NIH) 的课程BIOF 395和的耶鲁大学的课程CBB 574的客座讲师。作为项目主持人，曾获得美国国家卫生院授予的K99/R00: Pathway to Independence Award独立之路奖，4年共计83万美元的资助。入选2024年国家高层次青年人才项目（海外），2025年CCF-腾讯犀牛鸟基金项目。获得湖北省科技进步二等奖1项，CCL 2024亮点英文论文奖，csc奖学金和雷军奖学金。和曼彻斯特大学、耶鲁大学、NYU、哈佛、哥大、明尼苏达大学、蒙特利尔大学等国内外高校保持长期合作。近年来，指导了来自耶鲁大学、哥伦比亚大学、纽约大学、曼彻斯特大学、蒙特利尔大学、新加坡国立大学、清华大学、南京大学、中山大学等国内外知名高校的多位学生。
+长期从事自然语言处理的研究，在国际顶级会议NeurIPS/ACL/EMNLP/NAACL/KDD/SIGIR/WWW/ICDM/COLING和国际顶级期刊Nature Communications/npj Digital Medicine/TOIS/TKDE等发表论文60 余篇。截止2025年为止，相关github开源项目获得累计星标2000+, 多个开源的数据集成为领域内的评估基准并被用于组织国际权威的ACL-BioNLP 和IJCAI的评测任务，吸引了包括密歇根大学和佐治亚理工等国内外知名机构在内的两百多个队伍参加。相关的开源金融和医疗大语言模型下载量已超过12400次，数据下载量超过73800次。受邀担任ACL 2023、EMNLP 2023, ACL 2025, NeurIPS 2025, COLING 2025, EMNLP 2025, LREC 2026的领域主席，担任 FinNLP-FNP-LLMFinLegal @ COLING-2025 的大会联合主席，同时也是IJCAI-2024 和ACL 2023 评测任务的组织者。长期担任NeurIPS/ICLR/ ICML/ACL/EMNLP/NAACL/KDD/ npj Digital Medicine等会议和期刊的审稿人，担任了英国罗素大学集团University Research Fellowships 2023的基金评审人。受邀担任欧洲生物信息研究所组织的专题研讨会的主讲嘉宾，美国国家卫生院 (NIH) 的课程BIOF 395和的耶鲁大学的课程CBB 574的客座讲师。作为项目主持人，曾获得美国国家卫生院授予的K99/R00: Pathway to Independence Award独立之路奖，4年共计83万美元的资助。入选2024年国家高层次青年人才项目（海外），2025年CCF-腾讯犀牛鸟基金项目。获得湖北省科技进步二等奖1项，CCL 2024亮点英文论文奖，csc奖学金和雷军奖学金。和曼彻斯特大学、耶鲁大学、NYU、哈佛、哥大、明尼苏达大学、蒙特利尔大学等国内外高校保持长期合作。近年来，指导了来自耶鲁大学、哥伦比亚大学、纽约大学、曼彻斯特大学、蒙特利尔大学、新加坡国立大学、清华大学、南京大学、中山大学等国内外知名高校的多位学生。
