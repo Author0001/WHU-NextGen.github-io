@@ -15,7 +15,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-  - name: College of Artificial Intelligence, WuHan University
+  - name: School of Artificial Intelligence, WuHan University
     url: 'https://sai.whu.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
