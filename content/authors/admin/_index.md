@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 彭敏
+title: Nelson Bighetti
 
 # Full Name (for SEO)
 first_name: 敏
