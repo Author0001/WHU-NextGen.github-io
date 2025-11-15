@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 彭敏
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: 敏
+last_name: 彭
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,28 +14,26 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: College of Artificial Intelligence, WuHan University
+    url: 'https://sai.whu.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 人工智能
+  - 自然语言处理
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: 物理学其他专业 大学本科毕业
+      institution: 武汉大学物理系
+    - course: 计算机应用技术 硕士研究生毕业
+      institution: 武汉大学计算机学院
+    - course: 计算机软件与理论  博士研究生毕业
+      institution: 武汉大学计算机学院
+    - course: 计算机应用技术   博士后
+      institution: 美国新墨西哥大学
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +42,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: 'pengm@whu.edu.cn'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
