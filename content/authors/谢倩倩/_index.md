@@ -38,15 +38,15 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: B.E. Degree
+      institution: School of Computer and Information Engineering, Jiangxi Normal University
+      year: 2010.09-2014.07
+    - course: Ph.D. Degree
+      institution: School of Computer Science, Wuhan University
+      year: 2014.09-2020.12
+    - course: Visiting PhD Student
+      institution: Department of Computer Science and Operations Research, University of Montreal
+      year: 2019.11-2020.11
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
