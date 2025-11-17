@@ -48,7 +48,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: 20251117-144945.jpg
           filters:
             brightness: 1
           parallax: false
